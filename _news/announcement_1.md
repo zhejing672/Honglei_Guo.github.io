@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Learning Long-Term Educational Investment Policies under Residential Sorting* — [arXiv:2608.07295](https://arxiv.org/abs/2608.07295), 2026.
+Our paper, *Learning Long-Term Educational Investment Policies under Residential Sorting*, is available on [arXiv](https://arxiv.org/abs/2608.07295).

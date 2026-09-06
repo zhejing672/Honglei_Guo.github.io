@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Short-Term Photovoltaic Power Forecasting Based on Patch-Transformer Model* — [China Automation Congress 2024](https://www.proceedings.com/content/078/078758webtoc.pdf), 2024.
+Our paper, *Short-Term Photovoltaic Power Forecasting Based on Patch-Transformer Model*, was published at [China Automation Congress 2024](https://www.proceedings.com/content/078/078758webtoc.pdf).

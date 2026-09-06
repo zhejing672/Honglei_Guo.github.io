@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Empowering Multi-Robot Cooperation via Sequential World Models* — [ICLR 2026](https://proceedings.iclr.cc/paper_files/paper/2026/hash/16415eed5a0a121bfce79924db05d3fe-Abstract-Conference.html), 2026.
+Our paper, *Empowering Multi-Robot Cooperation via Sequential World Models*, was accepted to [ICLR 2026](https://proceedings.iclr.cc/paper_files/paper/2026/hash/16415eed5a0a121bfce79924db05d3fe-Abstract-Conference.html).

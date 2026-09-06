@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*EIC Framework for Hand Exoskeletons Based on a Multimodal Large Language Model* — [IROS 2025](https://www.proceedings.com/content/083/083023webtoc.pdf), 2025.
+Our paper, *EIC Framework for Hand Exoskeletons Based on a Multimodal Large Language Model*, was published at [IROS 2025](https://www.proceedings.com/content/083/083023webtoc.pdf).

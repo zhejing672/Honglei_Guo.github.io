@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Hierarchical Multiagent Reinforcement Learning for Multi-Group Tax Game* — [arXiv:2605.04741](https://arxiv.org/abs/2605.04741), 2026.
+Our paper, *Hierarchical Multiagent Reinforcement Learning for Multi-Group Tax Game*, is available on [arXiv](https://arxiv.org/abs/2605.04741).

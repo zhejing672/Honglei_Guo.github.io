@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*OpFlow: Learning Opportunity-Conditioned Choice Potentials for Robust OD Flow Prediction* — [arXiv:2607.03200](https://arxiv.org/abs/2607.03200), 2026.
+Our paper, *OpFlow: Learning Opportunity-Conditioned Choice Potentials for Robust OD Flow Prediction*, is available on [arXiv](https://arxiv.org/abs/2607.03200).
