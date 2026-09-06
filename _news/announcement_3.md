@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-05-06 10:00:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+*Hierarchical Multiagent Reinforcement Learning for Multi-Group Tax Game* — [arXiv:2605.04741](https://arxiv.org/abs/2605.04741), 2026.

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Hand exoskeleton with multimodal LLM</title>
+  <desc id="desc">A schematic of a robotic hand exoskeleton connected to a multimodal language model.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#101720"/>
+      <stop offset="100%" stop-color="#242c49"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <rect x="80" y="120" width="640" height="760" rx="28" fill="#0f172a" opacity="0.45" stroke="#c4b5fd" opacity="0.4"/>
+  <g stroke="#e2e8f0" stroke-width="10" stroke-linecap="round" fill="none">
+    <path d="M240 370L210 500L260 640"/>
+    <path d="M315 350L300 500L330 640"/>
+    <path d="M390 345L390 500L400 650"/>
+    <path d="M465 360L490 500L470 640"/>
+    <path d="M538 390L580 500L540 640"/>
+  </g>
+  <g fill="#a78bfa" opacity="0.88">
+    <circle cx="210" cy="500" r="18"/>
+    <circle cx="300" cy="500" r="18"/>
+    <circle cx="390" cy="500" r="18"/>
+    <circle cx="490" cy="500" r="18"/>
+    <circle cx="580" cy="500" r="18"/>
+  </g>
+  <rect x="150" y="180" width="500" height="120" rx="18" fill="#dbeafe" opacity="0.08" stroke="#dbeafe" opacity="0.2"/>
+  <text x="400" y="235" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#f8fafc" text-anchor="middle">Multimodal LLM</text>
+  <text x="400" y="275" font-size="20" font-family="Arial, Helvetica, sans-serif" fill="#cbd5e1" text-anchor="middle">vision + intent + control</text>
+  <path d="M180 160L150 100M620 160L650 100M650 100H150" stroke="#67e8f9" stroke-width="6" fill="none" stroke-dasharray="10 12"/>
+  <text x="400" y="800" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#f8fafc" text-anchor="middle">EIC exoskeleton control</text>
+</svg>

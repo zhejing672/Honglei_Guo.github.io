@@ -1,9 +1,31 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+ICLR:
+  url: https://iclr.cc/
+  color: "#5b6ee1"
+
+IJDE:
+  url: https://www.tandfonline.com/journals/tjde20
+  color: "#00843d"
+
+APL:
+  url: https://pubs.aip.org/aip/apl
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+CAC:
+  url: https://ieeexplore.ieee.org/
+  color: "#9f3f00"
 
-"Vision":
-  color: "#009f36"
+IROS:
+  url: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/iros
+  color: "#b10dc9"
+
+YAC:
+  url: https://www.caa.org.cn/
+  color: "#c0392b"
+
+arXiv:
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+ECMX:
+  url: https://www.sciencedirect.com/journal/energy-conversion-and-management-x
+  color: "#2e7d32"
