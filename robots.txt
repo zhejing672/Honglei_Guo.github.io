@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Honglei-Guo.github.io/al-folio/sitemap.xml
+Sitemap: https://zhejing672.github.io/Honglei_Guo.github.io/sitemap.xml
