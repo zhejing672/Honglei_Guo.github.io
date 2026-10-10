@@ -29,7 +29,7 @@ I am a first-year Ph.D. student jointly trained by the [College of Artificial In
 
 ## Research Interests
 
-- **Deep Learning:** Data mining, photovoltaic power, and time-series forecasting.
+- **Deep Learning:** Data mining and photovoltaic power forecasting.
 - **Multi-Agent Reinforcement Learning:** Social intelligence and multi-robot systems.
 - **Game Theory and Algorithms:** Mixed cooperative-competitive games.
 
