@@ -29,8 +29,8 @@ I am a first-year Ph.D. student jointly trained by the [College of Artificial In
 
 ## Research Interests
 
-- **Time Series Forecasting:** Spatio-temporal forecasting and photovoltaic power forecasting.
-- **Game Theory and Multi-Agent Systems:** Multi-agent reinforcement learning for economic and social systems.
-- **Embodied AI:** Multi-robot systems, including MARL-based and LLM-based approaches.
+- **Deep Learning:** Data mining, photovoltaic power forecasting, and time-series forecasting.
+- **Multi-Agent Reinforcement Learning:** Social intelligence and multi-robot systems.
+- **Game Theory and Algorithms:** Mixed cooperative-competitive games.
 
 I welcome opportunities for research collaboration and thoughtful discussion.
